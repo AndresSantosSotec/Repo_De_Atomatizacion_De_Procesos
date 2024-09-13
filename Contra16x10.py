@@ -30,6 +30,8 @@ number_of_characters_field.send_keys("16")
 # Lista para almacenar todas las contraseñas generadas
 all_passwords = []
 
+
+
 # Ejecutar el ciclo para generar 10 contraseñas
 for i in range(10):
     # Encontrar el botón para generar la contraseña y hacer clic
